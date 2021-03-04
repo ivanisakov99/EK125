@@ -1,4 +1,4 @@
-###<ins>Problem: Weather by MATLAB</ins>
+### <ins>Problem: Weather by MATLAB</ins>
 In Section 9.4, you were introduced to the idea of Application Programming Interfaces (API’s). API’s are an important backbone piece for most applications you use; whether it is a mobile application such as Lyft or a web application like Facebook, API’s are used everywhere.
 
 For this homework, we will be using the OpenWeatherMap’s API to access real time weather metrics. Your job will be to create an application to access, analyze, and present these metrics. Before getting started, we recommend familiarizing yourself with the API’s documentation available here: https://openweathermap.org/forecast5.
