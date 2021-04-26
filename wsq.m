@@ -1,1 +1,0 @@
-fid=fopen('data17.dat')
